@@ -18,4 +18,3 @@ Para cambiar añádir mi nomnbre al lado del titulo de la pagina, he tenido que 
 
 https://github.com/Juanfu224/2526_DAW_u2_springboot/blob/8fab9385dc4b327ad33474c0e3a9de5b99673d09/src/main/resources/templates/index.html#L123
 
-
